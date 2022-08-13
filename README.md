@@ -39,9 +39,10 @@ After merging, some data cleaning steps were applied to the combined table in th
 
 ## DATA ANALYSIS
 Customer Profile
+
 The dashboard below shows the customer profile of the telecommunications company. 
 
-![image](https://user-images.githubusercontent.com/97131888/184005583-68b0ffbf-c6d7-4c29-aa0b-93a7136ed351.png)
+![image](https://user-images.githubusercontent.com/97131888/184493740-80fa95c8-b349-4aa8-ab9a-1b1ef2747990.png)
 
 
 Some Insights from the analysis include;
@@ -58,7 +59,7 @@ Churn Analysis
 
 On analyzing the customer data, it was found that 1,869 customers left the business, accounting for 26.54% of Maven’s customer churn.
 
-![image](https://user-images.githubusercontent.com/97131888/184005708-dcc9258e-c3ba-49a9-a589-ea4b1c727747.png)
+![image](https://user-images.githubusercontent.com/97131888/184493808-045e4aaa-affd-4e7e-87c7-0d61fdd2b717.png)
 
 1.	Of the total churned customers, 1,655 (88.6%) were customers on a monthly contract.
 2.	The highest churn numbers were seen amongst the oldest customers (60+), as the number of churned customer’s increases with age. This suggests that older customers are more likely to churn.
@@ -66,8 +67,7 @@ On analyzing the customer data, it was found that 1,869 customers left the busin
 4.	The most frequent reason for churn is competition, which takes a 45% share of the churn rate. The other most common reasons were, dissatisfaction, attitude, and price respectively.
 
 
-
-![image](https://user-images.githubusercontent.com/97131888/184026170-478a7dc2-dd44-4655-8b6f-d8b051475fc6.png)
+![image](https://user-images.githubusercontent.com/97131888/184493660-8afd96c9-69b8-498f-bc8e-54f140100ed6.png)
 
 5.	The highest amounts of churn (22%) occurred in 10 cities, with San Diego recording the highest rate.
 6.	56% of churned customers did not accept any marketing offers, this suggests that customers who do not accept any marketing offers are more likely to churn. 
