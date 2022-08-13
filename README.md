@@ -73,15 +73,26 @@ On analyzing the customer data, it was found that 1,869 customers left the busin
 6.	56% of churned customers did not accept any marketing offers, this suggests that customers who do not accept any marketing offers are more likely to churn. 
 7.	The analysis also indicates that churned customers were less likely to refer friends or family during their time as customers of the company.
 8.	83% of churned customers did not subscribe to an additional technical support plan from the company with reduced wait times.
+9.	The company makes the highest revenue from the age group (60+) with the highest churn.
 
  
 ## CONCLUSION AND RECOMMENDATIONS
 The major weak areas driving churn are;
+
 (a) Age
+
 (b) Short Tenure
+
 (c) Competition
-(d) The type and amount of marketing offers 
+
+(d) The type and amount of marketing offers
+
 (e) Absence of Tech support 
+
+The following strategies are recommended to Maven telecommunications reduce churn and retain customers;
+
+Maven telecommunications makes the most revenue from the 60+ age group which also has the highest churn. Therefore, customer success managers can be assigned to these most valuable customers to reduce churn. The company also needs to properly define a roadmap for new customers and create onboarding programs that teach how to use its services. This would prevent customer churn in the early stages of onboarding and increase the average customer tenure. To stay competitive, Maven telecommunications should dig into why customers are leaving for the competition, consider price differentiation approaches, and improve customer service by providing affordable additional tech support to customers with higher risks of churn. New incentive marketing strategies also need to be introduced to encourage customers to choose more marketing offers.
+
 
 
 
