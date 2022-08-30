@@ -6,7 +6,8 @@ Maven Analytics Challenge - Customer Churn Analysis for a telecommunications com
 
 ## AUTHOR
 
-- [@Renikeji19](https://www.github.com/Renikeji19)
+ADEPEJU SHITTU
+
 
 ## INTRODUCTION 
 Maven Communications is a California-based telecoms company seeking to optimize customer retention and reduce customer churn. Managing churn is important to the company because it is cheaper to retain existing customers than acquire new customers. Therefore, optimizing customer retention is vital to the company as churn is a key driver of EBITDA margin, leads to less revenue and increases competitor market share.
