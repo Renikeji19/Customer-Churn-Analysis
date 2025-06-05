@@ -46,23 +46,8 @@ After merging, some data cleaning steps were applied to the combined table in th
 ![image](https://user-images.githubusercontent.com/97131888/184004385-348dd7bb-88e1-4167-bd27-337b01d5f1db.png)
 
   
+
 ## 🔍 Key Findings
-
-
-The dashboard below shows the customer profile of the telecommunications company. 
-
-![image](https://user-images.githubusercontent.com/97131888/184493740-80fa95c8-b349-4aa8-ab9a-1b1ef2747990.png)
-
-
-Some Insights from the analysis include;
-
-1. The company has a total customer strength of 7,043 and has made a total revenue of $21.37 million. 
-2. More than 50% of the company’s customers are male, and above the age of 40. 
-3. The Monthly contract type accounts for >50% of customer subscriptions. 
-4. 90.32% of customers subscribe to home phone service with the company. 
-5. 41% of customers have spent less than 21 months with the company.  
-6. The most common payment method is the Bank withdrawal.
-
 
 ### Churn Metrics
 - Churn Rate: **26.54%** (1,869 customers)
@@ -86,19 +71,14 @@ Some Insights from the analysis include;
 
  
 ## Conclusion
-The major weak areas driving churn are;
+The major weak areas driving churn are:
+- Age
+- Short Tenure
+- Competition
+- Type & Amount of Marketing offers
+- Absence of Tech support  
 
-(a) Age
-
-(b) Short Tenure
-
-(c) Competition
-
-(d) The type and amount of marketing offers
-
-(e) Absence of Tech support 
-
-## 📈 Strategic Recommendations
+### 📈 Strategic Recommendations
 
 - Assign **Customer Success Managers** to 60+ high-value customers  
 - Improve **onboarding programs** to increase early-stage retention  
